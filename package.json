@@ -1,0 +1,23 @@
+{
+  "name": "telegram-del-all-msg-bot",
+  "version": "0.0.1",
+  "description": "This is a telegram bot for removing all messages in group/chat",
+  "main": "bot.js",
+  "dependencies": {
+    "telegraf": "^3.32.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscartcy/telegram-del-all-msg-bot.git"
+  },
+  "author": "Oscar Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscartcy/telegram-del-all-msg-bot/issues"
+  },
+  "homepage": "https://github.com/oscartcy/telegram-del-all-msg-bot#readme"
+}
